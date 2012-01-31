@@ -67,11 +67,11 @@ do{cout << "Please enter Examination score : ";
 		{
 			cout << "\n GRADE: " << "F" << "\n INTERPRETATION: " << "Fail";
 		};
-       cout << endl;
+    cout << endl;
 } while(num_marks > 0);
 	   cout << "Thank you," << name << " for using this program :) " << endl;
 	   return 0;
 	   
-	   // Send me an Email for comments,questions and any suggestions. iraindolf@yahoo.com and www.facebook.com/oasisweb..Thank you.
+	   // Send your Emails for comments,questions and any suggestions. iraindolf@yahoo.com and www.facebook.com/oasisweb..Thank you.
 
 }
