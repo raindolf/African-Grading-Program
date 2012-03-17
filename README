@@ -1,3 +1,5 @@
-This is a simple C++ console program that provides the grade and its interpretation of any given 
-examination numerical marks.You can contribute so that we can make a GUI app for this program that 
-will also be able to calculate the GPA. 
+The original interpretation of this program, by Raindolf Owusu, was written in C++ and was a console application.
+
+The second interpretation of this program, by Kafui Gblonya, was written in Java and was also a console application.
+
+Following the spirit of this program, I am rewriting it in Python 2.7.3, and leaving it as a console application. I may write an Americanized version of it, as a GUI program later.
