@@ -72,6 +72,6 @@ do{cout << "Please enter Examination score : ";
 	   cout << "Thank you," << name << " for using this program :) " << endl;
 	   return 0;
 	   
-	   // Send your Emails for comments,questions and any suggestions. iraindolf@yahoo.com and www.facebook.com/oasisweb..Thank you.
+	   // Send your Emails for comments,questions and any suggestions. www.oasiswebsoft.com iraindolf@yahoo.com and www.facebook.com/oasisweb..Thank you.
 
 }
