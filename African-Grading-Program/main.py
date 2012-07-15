@@ -26,10 +26,10 @@ class African_Grading_Program():
         print "Please enter your numerical examination score: "
         num_marks = int(input())
         
-        if 100 >= num_marks >= 70:
+        if 70 <= num_marks <= 100:
             print "Your grade is an A, and it is interpreted as an excellent score."
             
-        elif 69 >= num_marks >= 65:
+        elif 65 <= num_marks <= 69:
             print "Your grade is an A-, and it is interpreted as a very good score."
             
         elif 60 <= num_marks <= 64:
