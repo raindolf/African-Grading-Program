@@ -58,6 +58,6 @@ class African_Grading_Program():
             print ""
             print "Thank you for using the Python version of Raindolf Owusu's African Grading Program."
             print "This python version was written by Cody Dostal. The original C++ version was written by Raindolf Owusu."
-            print "If you have found any bugs, please email me at cody@seafiresoftware.org"
+            print "If you have found any bugs, please email me at dostalcody@gmail.com"
             print "You may view the license for this program at http://www.gnu.org/licenses/gpl-3.0.html"
             sys.exit()
