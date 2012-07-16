@@ -26,10 +26,10 @@ class African_Grading_Program():
         print "Please enter your numerical examination score: "
         num_marks = int(input())
         
-        if 100 >= num_marks >= 70:
+        if 70 <= num_marks <= 100:
             print "Your grade is an A, and it is interpreted as an excellent score."
             
-        elif 69 >= num_marks >= 65:
+        elif 65 <= num_marks <= 69:
             print "Your grade is an A-, and it is interpreted as a very good score."
             
         elif 60 <= num_marks <= 64:
@@ -58,6 +58,6 @@ class African_Grading_Program():
             print ""
             print "Thank you for using the Python version of Raindolf Owusu's African Grading Program."
             print "This python version was written by Cody Dostal. The original C++ version was written by Raindolf Owusu."
-            print "If you have found any bugs, please email me at cody@seafiresoftware.org"
+            print "If you have found any bugs, please email me at dostalcody@gmail.com"
             print "You may view the license for this program at http://www.gnu.org/licenses/gpl-3.0.html"
             sys.exit()
