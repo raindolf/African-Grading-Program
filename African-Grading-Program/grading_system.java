@@ -59,7 +59,7 @@ package grading_system;
 
  } else if (mark >= 50 && mark <= 54)
  {
- System.out.println(" GRADE B-");
+ System.out.println(" GRADE b-");
  System.out.println(" INTERPRETATION : AVERAGE ");
  System.out.println("");
 
@@ -84,7 +84,7 @@ package grading_system;
  } else if (mark < 30)
  {
  System.out.println(" GRADE F");
- System.out.println(" INTERPRETATION : FAIL ");
+ System.out.println(" INTERPRETATION : YOU FAIL ");
  System.out.println("");
  } else
  {
